@@ -1,0 +1,18 @@
+{
+  "name": "julioblok",
+  "version": "1.0.0",
+  "description": "blockchain dev js",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "blockchain",
+    "javascript"
+  ],
+  "author": "julio mojica",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
